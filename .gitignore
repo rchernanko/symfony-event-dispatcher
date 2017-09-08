@@ -1,0 +1,5 @@
+# PHPStorm config
+.idea
+
+# Dependencies
+/vendor/
