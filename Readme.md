@@ -1,9 +1,9 @@
-#Practice - Symfony Event Dispatcher
+# Practice - Symfony Event Dispatcher
 
 - My notes based on the symfony component event dispatcher tutorial on the laracasts website
 - https://laracasts.com/series/discover-symfony-components/episodes/4
 
-##Set up
+## Set up
 
 All I did to create this project (and this can be applied to any symfony projects):
 

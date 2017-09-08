@@ -11,4 +11,4 @@ $dispatcher = new EventDispatcher;
 //Now let's add a listener...
 
 //Think of the listener as 'someone listening for somebody else to broadcast something that took place'
-$dispatcher->addListener('user.becamePremium');
+$dispatcher->addListener('UserSignedUp');
